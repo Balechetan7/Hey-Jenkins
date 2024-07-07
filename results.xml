@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="6.127">
+<testsuite name="tests\specs\onboardTenant.spec.ts" timestamp="1658082669300" hostname="" tests="1" failures="0" skipped="0" time="4.388" errors="0">
+<testcase name="regarding the change password link input username" classname="[Login] › tests\specs\onboardTenant.spec.ts:12:5 › regarding the change password link › input username" time="4.388">
+</testcase>
+</testsuite>
+</testsuites>
